@@ -1,7 +1,7 @@
  # RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-Data: 23/08/2025
-Empresa: Abstergo Industries 
-Responsável: [Andre Oliveira]
+- Data: 23/08/2025
+- Empresa: Abstergo Industries 
+- Responsável: [Andre Oliveira]
 
 ## Introdução
 

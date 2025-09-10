@@ -62,6 +62,6 @@ Planilhas de análise de custos antes e depois da implementação
 | Amazon S3      | Armazenamento seguro e econômico de grandes volumes de dados | Armazenamento de documentos fiscais, relatórios financeiros e arquivos de integração | Alta durabilidade dos dados, compliance regulatório, redução de custos com hardware físico e backup |
 
 
-## Assinatura do ResponsÃ¡vel pelo Projeto:
+## Assinatura do Responsavel pelo Projeto:
 
 [ALOC]
